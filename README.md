@@ -6,8 +6,8 @@ Sou Eric Nascimento, De Salvador BA, desenvolvedor FullStack
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-nascimento-b21549265/) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571991195783)
 
 <div align="center">
-  <img align="right" height="170em" src="https://github-readme-stats.vercel.app/api?username=eric-nas&show_icons=true&theme=tokyonight"/>
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-nas&layout=compact&langs_count=10&theme=tokyonight"/>
+  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api?username=eric-nas&show_icons=true&theme=tokyonight"/>
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-nas&layout=compact&langs_count=10&theme=tokyonight"/>
 <br>
 <br>
   <p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=eric-nas&theme=tokyonight&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
