@@ -1,6 +1,8 @@
-### Bem Vindo ao meu Github!
+### Boas vindas ao meu Github!
 
 Sou Eric Nascimento, De Salvador BA, desenvolvedor FullStack
+
+Sou um apaixonado por tecnologia que está se preparando para atuar na área como programador! 
 
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eric-nascimento-b21549265/) [![whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5571991195783)
